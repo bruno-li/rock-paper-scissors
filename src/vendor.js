@@ -1,2 +1,0 @@
-// vendors JS
-import 'bootstrap';
